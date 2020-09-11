@@ -6,15 +6,13 @@ Aspire is full of features to help you budget your finances. These docs will hel
 
 Take a look at the [Getting Started](/getting-started) page for information on setting up your Aspire sheet.
 
-## 💬 Feedback
+## 🤝 Contributing to the docs
 
-If you spot a typo/mistake or would like to see more documentation on a particular subject, please let me know by filling out this [quick survey](https://forms.gle/zyNBW42bRSv6jSL3A)!
+You can help contribute to the Aspire Budgeting Docs on our [GitHub page](https://github.com/Aspire-Budgeting/docs). Anyone is welcome \(and encouraged\) to help me improve this documentation. If you find an mistake anywhere in the docs, please [open an issue](https://github.com/Aspire-Budgeting/docs/issues) or create a pull request.
 
-## 🤝 Contributing
+## 🌎 Join our community
 
-If you'd be interested in contributing to the docs, please let me know!
+We have a wonderful [Reddit](https://reddit.com/r/aspirebudgeting) community and we'd love it if you joined us! Or, if you prefer, you can follow Aspire on [Twitter](https://twitter.com/aspirebudget).
 
-## 🌎 Community
 
-We have a wonderful [Reddit](https://reddit.com/r/aspirebudgeting) community and we'd love it if you joined us!
 
