@@ -10,7 +10,7 @@
 
 ## Localizing Aspire's currency and dates
 
-Aspire offers tools to update the entire sheet into a currency and date format of your choosing. Review the [Localization Tools docs](/tabs/localization-tools) for how to complete this process.
+Aspire offers tools to update the entire sheet into a currency and date format of your choosing. Review the [Localization Tools](spreadsheet-tabs/localization-tools.md) docs for how to complete this process.
 
 ## Configuring Accounts and Categories
 
