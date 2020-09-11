@@ -12,7 +12,7 @@ You can help contribute to the Aspire Budgeting Docs on our [GitHub page](https:
 
 ## 🌎 Join our community
 
-We have a wonderful [Reddit](https://reddit.com/r/aspirebudgeting) community and we'd love it if you joined us! Or, if you prefer, you can follow Aspire on [Twitter](https://twitter.com/aspirebudget).
+We have a wonderful [Reddit](https://reddit.com/r/aspirebudgeting) community and we'd love it if you joined us! Or, if you prefer, you can follow Aspire Budgeting on [Twitter](https://twitter.com/aspirebudget).
 
 
 
