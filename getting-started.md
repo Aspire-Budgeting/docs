@@ -16,7 +16,7 @@ Aspire offers tools to update the entire sheet into a currency and date format o
 
 Getting your accounts and categories configured is the first step on your Aspire journey. A few categories and accounts have already been added by default. For this Getting Started section, we'll walk through some examples with these defaults.
 
-Before updating/changing any of the categories and their corresponding details, you may want to review the [Configuration docs](/tabs/configuration).
+Before updating/changing any of the categories and their corresponding details, you may want to review the [Configuration](spreadsheet-tabs/configuration.md) docs.
 
 If you're new to budgeting, it's best to make your categories generic. As you get a feel for budgeting, you can make adjustments to refine your categories. And don't fret about forgetting anything - new categories can be added at any time!
 
