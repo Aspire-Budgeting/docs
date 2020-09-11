@@ -4,7 +4,7 @@
 
 Aspire is full of features to help you budget your finances. These docs will help you understand the basics of budgeting and explain how to use Aspire.
 
-Take a look at the [Getting Started](/getting-started) page for information on setting up your Aspire sheet.
+Take a look at the [Getting Started](getting-started.md) page for information on setting up your Aspire sheet.
 
 ## 🤝 Contributing to the docs
 
