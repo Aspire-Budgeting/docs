@@ -34,7 +34,7 @@ All Build@Aspire spreadsheets should:
   * Contact information for the developer for the developer if users have a question or feedback
   * Screenshots of your spreadsheet in action
 
-## Guidelines for Apps
+## Guidelines for Apps / Mobile apps
 
 If you're building an app/mobile app for Aspire, it should:
 
