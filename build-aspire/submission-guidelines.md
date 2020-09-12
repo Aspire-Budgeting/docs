@@ -1,6 +1,6 @@
 # Submission Guidelines
 
-## Steps for submission
+## Overview
 
 To be listed in the Build@Aspire repository, you will need to follow the guidelines below when creating your extension. When you are ready to have your extension reviewed, [create an issue here](https://github.com/Aspire-Budgeting/build-at-aspire/issues) and I'll review the details of your submission and extension. Once everything is in order, I'll add your details to the official Build@Aspire repository and your extension will be listed on the offical Aspire Budgeting website for others to find and use.
 
