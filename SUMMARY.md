@@ -3,7 +3,6 @@
 * [Welcome](README.md)
 * [Getting Started](getting-started.md)
 * [Help](help.md)
-* [API](build-at-aspire.md)
 
 ## SPREADSHEET TABS
 
@@ -22,4 +21,11 @@
 ## CREDIT CARDS
 
 * [Basic Usage](credit-cards/basic-usage.md)
+
+## Build@Aspire
+
+* [Overview](build-aspire/overview.md)
+* [Submission Guidelines](build-aspire/submission-guidelines.md)
+* [API / Named Ranges](build-aspire/api-named-ranges.md)
+* [Colors](build-aspire/colors.md)
 
