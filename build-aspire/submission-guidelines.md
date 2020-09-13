@@ -21,9 +21,10 @@ This all might sound intimidating but it's not meant to be - I promise I'm frien
 
 All Build@Aspire spreadsheets should:
 
-* Adhere to the Aspire Budgeting color palette
+* Adhere to the Aspire Budgeting color palette and use Nunito Sans as the font
 * Have a clear and concise UI with well described and intuitive controls
 * Instructions for how to copy your spreadsheet into Aspire Budgeting
+* Not rely on any Apps Script code
 * Have links to:
   * The Aspire Budgeting website
   * The Aspire Budgeting subreddit
