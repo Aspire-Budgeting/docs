@@ -18,7 +18,7 @@ Aspire can be extended in many ways. There are 3 classifications of Build@Aspire
 
 Spreadsheets are the easiest way to extend Aspire. A few examples may include loan calculators, forecasting tools, or new dashboard/report types.
 
-\*\*\*\*[**Get the spreadsheet starter template →**](https://docs.google.com/spreadsheets/d/1lAOAfMJ18oSYf_Y4syLRK5u-srtfTflw396eAaWvvWk/copy)\*\*\*\*
+\*\*\*\*[**Get the starter template →**](https://docs.google.com/spreadsheets/d/1lAOAfMJ18oSYf_Y4syLRK5u-srtfTflw396eAaWvvWk/copy)\*\*\*\*
 
 ### Apps / Mobile apps
 
