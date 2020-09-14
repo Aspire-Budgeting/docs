@@ -22,7 +22,7 @@ Spreadsheets are the easiest way to extend Aspire. A few examples may include lo
 
 ### Apps / Mobile apps
 
-Apps are another category of Aspire projects. These can range from having simple functions like viewing balances to more complex functions like adding transactions or viewing reports.
+Apps are another category of Aspire projects. These will typically be mobile apps, widgtets, or websites. These can range from having simple functions like viewing balances to more complex functions like adding transactions or viewing reports.
 
 ### CLI tools & scripts
 
