@@ -6,7 +6,7 @@ You can learn more about the APIs available here in [Google's documentation](htt
 
 ## Named Ranges
 
-#### Values
+### Values
 
 <table>
   <thead>
@@ -107,7 +107,7 @@ You can learn more about the APIs available here in [Google's documentation](htt
   </tbody>
 </table>
 
-#### Ranges \(single column\)
+### Ranges \(single column\)
 
 | Reference | Format | Notes |
 | :--- | :--- | :--- |
@@ -127,7 +127,7 @@ You can learn more about the APIs available here in [Google's documentation](htt
 | **cfg\_Accounts** | **Range** | Range of Bank Accounts on the Configuration tab |
 | **cfg\_Cards** | **Range** | Range of Credit Cards on the Configuration tab |
 
-#### Ranges \(two dimensional\)
+### Ranges \(two dimensional\)
 
 | Reference | Format | Notes |
 | :--- | :--- | :--- |
