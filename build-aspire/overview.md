@@ -6,7 +6,7 @@
 
 Extending Aspire is easy. Here in the docs is an [entire section](api-named-ranges.md) dedicated to the various ways in which you can reference Aspire's data. These references are called Named Ranges. They allow a value or range to be accessed without the consumer of the value\(s\) needing to worry about which exact cell\(s\) the data is stored in. This is useful because as Aspire grows and changes, cells and locations of data may be relocated in the Aspire spreadsheet. Having these references \(Named Ranges\) removes the builder's concern of needing to update code and formulas with any new/changed cell references. This allows you as the build to be totally focused on building great extensions, apps, and spreadsheets.
 
-## Build@Aspire classifications
+## Build@Aspire project classifications
 
 Aspire can be extended in many ways. There are 3 classifications of Build@Aspire projects. These are:
 
