@@ -8,7 +8,7 @@ Extending Aspire is easy. Here in the docs is an [entire section](api-named-rang
 
 ## Build@Aspire classifications
 
-Aspire can be extended in many ways. There are 3 classifications of Build@Aspire extensions. These are:
+Aspire can be extended in many ways. There are 3 classifications of Build@Aspire projects. These are:
 
 * Spreadsheets
 * Apps / Mobile apps
@@ -22,7 +22,7 @@ Spreadsheets are the easiest way to extend Aspire. A few examples may include lo
 
 ### Apps / Mobile apps
 
-Apps are another category of Aspire extensions. These can range from having simple functions like viewing balances to more complex functions like adding transactions or viewing reports.
+Apps are another category of Aspire projects. These can range from having simple functions like viewing balances to more complex functions like adding transactions or viewing reports.
 
 ### CLI tools & scripts
 
