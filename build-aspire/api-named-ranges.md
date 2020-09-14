@@ -6,6 +6,8 @@ You can learn more about the APIs available here in [Google's documentation](htt
 
 ## Named Ranges
 
+These are the current Named Ranges that are safely consumable by Build@Aspire projects. If there's data in the core Aspire Budgeting sheets you'd like to reference, please let me know and we can likely get a Named Range created for that data.
+
 ### Values
 
 <table>
