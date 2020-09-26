@@ -39,7 +39,6 @@ All Build@Aspire spreadsheets should:
 
 If you're building an app/mobile app for Aspire, it should:
 
-* Adhere to the Aspire Budgeting color palette
 * Have a Github project or other proejct landing page with clear usage instructions
 * Have an issue tracker
 * Have a privacy policy
