@@ -4,9 +4,9 @@
 
 To be listed in the Build@Aspire repository, you will need to follow the guidelines below when creating your project. When you are ready to have your project reviewed, you'll need to create an issue on the [Build@Aspire GitHub page](https://github.com/Aspire-Budgeting/build-at-aspire). I'll review the details of your submission and project. Once everything is in order, I'll add your details to the official Build@Aspire repository and your project will be listed on the offical Aspire Budgeting website for others to find and use.
 
-These guidelines are pretty minimal, but they exist to ensure the best possible user experience  for users of Aspire and of tools from the Build@Aspire repository.
+These guidelines are pretty minimal, but they exist to ensure the best possible user experience for users of Aspire and of tools from the Build@Aspire repository.
 
-This all might sound intimidating but it's not meant to be - I promise I'm friendly 😃.
+This all might sound intimidating but it's not meant to be — I promise I'm friendly 😃.
 
 ### Request to be added to Build@Aspire
 
