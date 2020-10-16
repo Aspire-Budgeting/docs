@@ -6,7 +6,7 @@ Credit cards are common in the personal finance landscape. Whether you're focuse
 
 To add a credit card to your copy of Aspire, visit the **Configuration** tab. First, add your card to the Accounts section. Then, add your card details to the **Categories and Groups** section. Use the **◘** symbol to indicate that the Category you're adding is a Credit Card. When adding your details to both of these sections, it's very important the names match exactly.
 
-If you're activecly paying down your credit card debt, you may wish to enter the monthly payment amount for the card in the Monthly Amount section. If you pay your cards off in full every month, feel free to leave this cell blank.
+If you're actively paying down your credit card debt, you may wish to enter the monthly payment amount for the card in the Monthly Amount section. If you pay your cards off in full every month, feel free to leave this cell blank.
 
 ## Making a payment
 
