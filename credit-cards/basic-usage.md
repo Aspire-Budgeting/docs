@@ -10,7 +10,7 @@ If you're actively paying down your credit card debt, you may wish to enter the 
 
 ## Making a payment
 
-Making a payment to a credit card in Aspire is very simple. As you use your credit card, your payment will be calculated in the card's category on the Dashboard. This payment amount will reflect your purchases made with your credit card since the last payment plus any extra amount you transferred to the card's category. When it's time to make a payment, simply review the category and log a Transaction for this amount. After you've made the payment, you'll see your account and category details have updated on the **Dashboard**.
+Making a payment to a credit card in Aspire is very simple. As you use your credit card, your payment will be calculated in the card's category on the Dashboard. This payment amount will reflect your purchases made with your credit card since the last payment plus any extra amount you transferred to the card's category. When it's time to make a payment, make an account transfer from your bank account into credit card. You need to enter two transactions for this. One as payment outflow from your bank account, and one as payment inflow into your credit card. After you've made the payment, you'll see your account and category details have updated on the **Dashboard**.
 
 ### **Dashboard** tab
 
