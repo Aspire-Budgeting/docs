@@ -8,7 +8,7 @@ The **Configuration** tab is the home to all of your budget's core details. This
    * Select **✦** to create a **Category Group**. This is the name/title you give to a group or collection of Categories. While not required, using Category Groups can help with organizing your budget.
    * Select **✧** to create a **Reportable Category**. This type of Category will appear in all of Aspire's reports.
    * Select **※** to create a **Non-reportable Category**. A Non-reportable Category will not appear in any of the Reports \(all Categories are shown in **Category Reports**\). Use this for categories you never care/want to see in Reports.
-   * Select **◘** to create a **Credit Card Category**. This is a special type of Category that represents your payment to your [Credit Cards](credit-cards/basic-usage.md).
+   * Select **◘** to create a **Credit Card Category**. This is a special type of Category that represents your payment to your [Credit Cards](../credit-cards/basic-usage.md).
 
 While possible, it is not advised to modify any Category or Account names after you've started logging Transactions. Monthly Amounts and Goal Amounts can be updated at any time and Categories and Groups can be rearranged whenver you like. New Categories and Groups can also be added at any point in time.
 
