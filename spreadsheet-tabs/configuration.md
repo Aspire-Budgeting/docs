@@ -19,7 +19,7 @@ To explain how all of these relate to one another, imagine a plain physical enve
 
 1. **Accounts**: Accounts are broken down into two sections. **Bank Accounts / Cash** hold your money and assets while **Credit Cards**, as expected, are debts.
 2. **Net Worth Categories**: These categories encompass all of your assets and debts \(both budgeted and non-budgeted\). Categories can be as broad or as narrow as you prefer depending on your particular situation.
-3. **Hidden Categories** and **Hidden Accounts**: These are old Categories or Accounts that you no longer use. They can be added to their repsective sections to "retire" them and remove them from your primary budget.
+3. **Hidden Categories** and **Hidden Accounts**: These are old Categories or Accounts that you no longer use. They can be added to their respective sections to "retire" them and remove them from your primary budget.
 
 ![](../.gitbook/assets/configuration.png)
 
